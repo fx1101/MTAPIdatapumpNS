@@ -1,1 +1,1 @@
-C# project that interfaces Metatrader running a live instance connecting data through MT4API to Neuroshell.  Also working on another project for Neuroshell for sending the trades from Neuroshell to Metatrader called MTAPITradePump  
+C# project that interfaces Metatrader 4 running a live instance connecting data through MT4API to Neuroshell.  Also working on another project for Neuroshell for sending the trades from Neuroshell to Metatrader called MTAPITradePump  
